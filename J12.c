@@ -33,6 +33,6 @@ int main(){
     int a[n];
     fill(a,n);
     output(a,n);
-                          //j12-misol
+                          // j12-misol
     return 0;
 }
